@@ -1,10 +1,13 @@
 {
+  "homepage" : "https://OmPimpale.github.io/Template_Props",
   "name": "props-template",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "predeploy":"npm run dev",
+    "deploy":"gh-pages -d build",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
