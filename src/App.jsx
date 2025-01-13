@@ -9,7 +9,7 @@ import Services from './propsTemplate/Services'
 function App() {
   // navbar
   let navData = {
-    logo: "../../public/sierra_nature_logo.svg",
+    logo: "./sierra_nature_logo.png",
     home: "Home",
     about: "About",
     services: "Services",
@@ -51,9 +51,9 @@ function App() {
   let project = {
     mainHead: "Projects",
     subHead: "Forest Wilderness",
-    img1: "public/img-01-free-img.jpg",
-    img2: "public/img-02-free-img.jpg",
-    img3: "public/img-03-free-img.jpg",
+    img1: "./img-01-free-img.jpg",
+    img2: "./img-02-free-img.jpg",
+    img3: "./img-03-free-img.jpg",
     imghead1: "Look DeepInto Nature",
     imghead2: "Just Living is Not Enough",
     imghead3: "Adopt the Pace of Nature",
@@ -87,6 +87,7 @@ function App() {
       right: "Copyright © 2024.",
       creator: "Made By : ",
       me: "Om Pimpale (PP113).",
+      link: "https://ompimpale.github.io/Om_Pimpale_Portfolio/"
     }
   }
 

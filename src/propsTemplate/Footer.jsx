@@ -20,6 +20,7 @@ let Footer = (props) => {
     let copyRight = props.foot.copy.right;
     let madeBy = props.foot.copy.creator;
     let name = props.foot.copy.me;
+    let link = props.foot.copy.link;
 
     return (
 
@@ -56,7 +57,7 @@ let Footer = (props) => {
                     <section className="row p-3 border-top justify-content-center">
                         <div className="col-12 col-xxl-11 mt-3 d-md-flex text-center justify-content-between">
                             <p className="footpara">{copyRight}</p>
-                            <p className="footpara">{madeBy} <a href="#" className="footanchor">{name}</a></p>
+                            <p className="footpara">{madeBy} <a href={link} className="footanchor">{name}</a></p>
                         </div>
                     </section>
                 </div>
