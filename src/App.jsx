@@ -87,7 +87,7 @@ function App() {
       right: "Copyright © 2024.",
       creator: "Made By : ",
       me: "Om Pimpale (PP113).",
-      link: "https://ompimpale.github.io/Om_Pimpale_Portfolio/"
+      link: "https://ompimpale.github.io/Om_Portfolio/"
     }
   }
 
