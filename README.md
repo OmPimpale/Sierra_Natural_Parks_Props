@@ -1,6 +1,6 @@
 # 🏞️ Sierra Natural Park
 
-A modern and dynamic web template built using HTML, CSS, JavaScript, React, and React Props. This project showcases the power of React props for creating reusable and scalable UI components.
+A modern and dynamic web template built using HTML, CSS, JavaScript, React, and React Props. This project showcases the power of React props for creating reusable and scalable UI components. Featuring smooth animations, interactive elements, and easy customization, this template is perfect for scalable web applications. 🚀
 
 # ☀️ Live Demo
 
