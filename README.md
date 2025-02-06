@@ -4,7 +4,7 @@ A modern and dynamic web template built using HTML, CSS, JavaScript, React, and 
 
 # ☀️ Live Demo
 
-🔗 <a href="https://om-pimpale-props.netlify.app/">Live Demo</a>
+🔗 <a href="https://om-pimpale-props.netlify.app/">Live</a>
 
 # 🛠️ Technologies Used
 
@@ -49,8 +49,8 @@ root
 1️⃣ Clone the Repository
 
 ```sh
-git clone https://github.com/your-username/your-repo.git
-cd Neura---Web_Template
+git clone https://github.com/OmPimpale/Sierra_Natural_Parks_Props.git
+cd Sierra_Natural_Parks_Props
 ```
 
 2️⃣ Install Dependencies
@@ -62,7 +62,7 @@ npm install
 3️⃣ Start the Development Server
 
 ```sh
-npm start
+npm run dwv
 ```
 
 # 🎨 Customization
